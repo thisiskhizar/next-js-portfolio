@@ -24,7 +24,7 @@ const Hero = () => {
       <div className="h-screen w-full absolute top-0 left-0 flex items-center justify-center bg-white dark:bg-black-100">
         <div
           className={cn(
-            "opacity-80",
+            "opacity-60",
             "absolute inset-0",
             "[background-size:100px_100px]",
             "[background-image:linear-gradient(to_right,#e4e4e7_1px,transparent_1px),linear-gradient(to_bottom,#e4e4e7_1px,transparent_1px)]",
@@ -48,7 +48,7 @@ const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+          <p className="text-center md:tracking-wider mb-4 text-base md:text-lg lg:text-2xl">
             Hi! I&apos;m Khizar, a Certified Full Stack Engineer.
           </p>
 
