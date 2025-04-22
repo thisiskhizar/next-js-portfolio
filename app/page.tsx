@@ -1,5 +1,6 @@
 import Grid from "@/components/grid";
 import Hero from "@/components/hero";
+import Projects from "@/components/projects";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <div className="max-w-7xl w-full">
         <Hero/>
         <Grid/>
+        <Projects/>
       </div>
     </main>
   );
