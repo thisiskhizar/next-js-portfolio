@@ -40,6 +40,48 @@ export const projects = [
   },
 ];
 
+export const education = [
+  {
+    year: "2015 - 2018",
+    title: "High School Diploma",
+    description:
+      "Completed my early education with a focus on computer science and mathematics.",
+  },
+  {
+    year: "2018 - 2022",
+    title: "Bachelor's Degree",
+    description:
+      "Graduated in Computer Science, learning foundational software development and algorithms.",
+  },
+  {
+    year: "2018 - 2022",
+    title: "Bachelor's Degree",
+    description:
+      "Graduated in Computer Science, learning foundational software development and algorithms.",
+  },
+];
+
+export const experience = [
+  {
+    year: "2022 - 2023",
+    title: "Frontend Developer",
+    description:
+      "Worked with React, Tailwind, and Next.js to build responsive UIs and landing pages.",
+  },
+  {
+    year: "2023 - Present",
+    title: "Full-Stack Developer",
+    description:
+      "Developed scalable web applications using Next.js, Express.js, MongoDB, and Vercel.",
+  },
+  {
+    year: "2023 - Present",
+    title: "Full-Stack Developer",
+    description:
+      "Developed scalable web applications using Next.js, Express.js, MongoDB, and Vercel.",
+  },
+];
+
 export const testimonials = [
   {
     quote:
@@ -147,7 +189,7 @@ export const testimonials = [
       "Adrian built a custom dashboard for us in days that others couldn't figure out in weeks. Total pro.",
     name: "Isabella Grant",
     title: "Senior Analyst at OrbitTech",
-  }
+  },
 ];
 
 export const faqs = [
