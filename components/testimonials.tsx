@@ -28,7 +28,7 @@ const Testimonials = () => {
           <div
             key={i}
             className={`
-              relative w-full h-full overflow-hidden
+              group relative w-full h-full overflow-hidden
               ${
                 i === 0
                   ? "block"
@@ -43,10 +43,10 @@ const Testimonials = () => {
                 absolute top-0 left-0 flex flex-col gap-4 min-h-[200%]
                 ${
                   i === 0
-                    ? "animate-vertical-marquee-slowest"
+                    ? "animate-vertical-marquee-slowest group-hover:animation-pause"
                     : i === 1
-                    ? "animate-vertical-marquee-slow"
-                    : "animate-vertical-marquee-slower"
+                    ? "animate-vertical-marquee-slow group-hover:animation-pause"
+                    : "animate-vertical-marquee-slower group-hover:animation-pause"
                 }
               `}
             >

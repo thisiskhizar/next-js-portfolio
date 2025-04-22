@@ -12,7 +12,7 @@ export const projects = [
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/thisiskhizar",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/thisiskhizar",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/thisiskhizar",
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/thisiskhizar",
   },
 ];
 
@@ -85,42 +85,42 @@ export const experience = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Khizar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Khizar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Khizar is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Adrian transformed our digital presence completely. His ability to understand our goals and turn them into a fully responsive, fast-loading site was amazing.",
+      "Khizar transformed our digital presence completely. His ability to understand our goals and turn them into a fully responsive, fast-loading site was amazing.",
     name: "Samantha Lee",
     title: "Marketing Lead at BlueHorizon Co.",
   },
   {
     quote:
-      "I've worked with many developers, but Adrian is by far the most responsive and detail-oriented. Every small request was handled like it mattered.",
+      "I've worked with many developers, but Khizar is by far the most responsive and detail-oriented. Every small request was handled like it mattered.",
     name: "Raj Patel",
     title: "Product Manager at NovaApps",
   },
   {
-    quote: "Short and sweet – Adrian knows what he's doing. Period.",
+    quote: "Short and sweet – Khizar knows what he's doing. Period.",
     name: "Linda Gomez",
     title: "Founder of PixelSpark Studio",
   },
   {
     quote:
-      "We threw a tough deadline at Adrian and he delivered ahead of schedule. Absolutely brilliant work!",
+      "We threw a tough deadline at Khizar and he delivered ahead of schedule. Absolutely brilliant work!",
     name: "Jason Meyers",
     title: "COO of Tracklytics",
   },
   {
     quote:
-      "Adrian not only met our expectations — he redefined them. Clean code, strong design sense, and fantastic communication throughout the project.",
+      "Khizar not only met our expectations — he redefined them. Clean code, strong design sense, and fantastic communication throughout the project.",
     name: "Emily Zhang",
     title: "Design Director at GlowUp Agency",
   },
   {
     quote:
-      "Our website was outdated and clunky. Adrian revamped everything and now it runs like a dream. I can't thank him enough!",
+      "Our website was outdated and clunky. Khizar revamped everything and now it runs like a dream. I can't thank him enough!",
     name: "Marcus Bennett",
     title: "CEO at SummitGear",
   },
@@ -132,37 +132,37 @@ export const testimonials = [
   },
   {
     quote:
-      "Honestly, the best freelance experience I've had. Adrian is a machine — professional, patient, and extremely talented.",
+      "Honestly, the best freelance experience I've had. Khizar is a machine — professional, patient, and extremely talented.",
     name: "Tariq Hasan",
     title: "CTO at InnoCraft Labs",
   },
   {
     quote:
-      "Adrian took our startup’s MVP and helped polish it into a full-fledged production-ready product. Would definitely work with him again.",
+      "Khizar took our startup’s MVP and helped polish it into a full-fledged production-ready product. Would definitely work with him again.",
     name: "Chloe Nguyen",
     title: "Founder of TinyTasks",
   },
   {
     quote:
-      "We didn’t know exactly what we needed, but Adrian guided us with suggestions that worked beautifully. End result: an elegant, user-friendly platform.",
+      "We didn’t know exactly what we needed, but Khizar guided us with suggestions that worked beautifully. End result: an elegant, user-friendly platform.",
     name: "Brian O’Connor",
     title: "Project Lead at ClearView Systems",
   },
   {
     quote:
-      "Fast, reliable, and deeply skilled. Adrian communicates well and builds even better. Highly recommend.",
+      "Fast, reliable, and deeply skilled. Khizar communicates well and builds even better. Highly recommend.",
     name: "Julia Smith",
     title: "Lead Designer at Flowline Studio",
   },
   {
     quote:
-      "Working with Adrian was refreshing. He cared as much about our project as we did — and it showed in the results.",
+      "Working with Khizar was refreshing. He cared as much about our project as we did — and it showed in the results.",
     name: "Ethan Brooks",
     title: "Director of DevOps at QuantumServe",
   },
   {
     quote:
-      "Clean code, elegant design, and robust performance — Adrian delivers it all. Couldn’t be happier with the collaboration.",
+      "Clean code, elegant design, and robust performance — Khizar delivers it all. Couldn’t be happier with the collaboration.",
     name: "Anika Desai",
     title: "Head of Product at Zentrolytics",
   },
@@ -174,19 +174,19 @@ export const testimonials = [
   },
   {
     quote:
-      "Adrian is not just a developer; he's a thinker. His input changed our entire roadmap for the better.",
+      "Khizar is not just a developer; he's a thinker. His input changed our entire roadmap for the better.",
     name: "Lara Kwon",
     title: "Startup Coach & Strategist",
   },
   {
     quote:
-      "The professionalism Adrian brings to the table is unmatched. We felt like we had a full agency behind us — but better.",
+      "The professionalism Khizar brings to the table is unmatched. We felt like we had a full agency behind us — but better.",
     name: "George White",
     title: "Creative Director at BrandNest",
   },
   {
     quote:
-      "Adrian built a custom dashboard for us in days that others couldn't figure out in weeks. Total pro.",
+      "Khizar built a custom dashboard for us in days that others couldn't figure out in weeks. Total pro.",
     name: "Isabella Grant",
     title: "Senior Analyst at OrbitTech",
   },
@@ -212,5 +212,20 @@ export const faqs = [
     question: "Can you help redesign my existing app?",
     answer:
       "Yes! Whether it’s improving UX, refactoring code, or migrating to modern stacks like Next.js — I can help modernize your app.",
+  },
+];
+
+export const socialMedia = [
+  {
+    id: 1,
+    img: "/git.svg",
+  },
+  {
+    id: 2,
+    img: "/twit.svg",
+  },
+  {
+    id: 3,
+    img: "/link.svg",
   },
 ];

@@ -66,6 +66,7 @@ module.exports = {
         third: "moveInCircle 40s linear infinite",
         fourth: "moveHorizontal 40s ease infinite",
         fifth: "moveInCircle 20s ease infinite",
+        move: "move 5s linear infinite",
         "vertical-marquee-slow": "vertical-marquee 44s linear infinite",
         "vertical-marquee-slower": "vertical-marquee 48s linear infinite",
         "vertical-marquee-slowest": "vertical-marquee 55s linear infinite",
@@ -113,6 +114,10 @@ module.exports = {
           "100%": {
             transform: "translateY(-50%)",
           },
+        },
+        move: {
+          "0%": { transform: "translateX(-200px)" },
+          "100%": { transform: "translateX(200px)" },
         },
         "vertical-marquee": {
           "0%": { transform: "translateY(0%)" },

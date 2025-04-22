@@ -1,4 +1,5 @@
 import ExperienceSection from "@/components/experience";
+import Footer from "@/components/footer";
 import Grid from "@/components/grid";
 import Hero from "@/components/hero";
 import MyApproachSection from "@/components/my-approach";
@@ -15,6 +16,7 @@ export default function Home() {
         <ExperienceSection/>
         <MyApproachSection/>
         <Testimonials/>
+        <Footer/>
       </div>
     </main>
   );
