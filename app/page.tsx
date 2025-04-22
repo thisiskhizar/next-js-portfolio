@@ -4,7 +4,9 @@ import Grid from "@/components/grid";
 import Hero from "@/components/hero";
 import MyApproachSection from "@/components/my-approach";
 import Projects from "@/components/projects";
+import Questions from "@/components/questions";
 import Testimonials from "@/components/testimonials";
+import { faqs } from "@/data";
 
 export default function Home() {
   return (
@@ -16,6 +18,7 @@ export default function Home() {
         <ExperienceSection/>
         <MyApproachSection/>
         <Testimonials/>
+        <Questions faqs={faqs}/>
         <Footer/>
       </div>
     </main>
