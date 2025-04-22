@@ -66,6 +66,9 @@ module.exports = {
         third: "moveInCircle 40s linear infinite",
         fourth: "moveHorizontal 40s ease infinite",
         fifth: "moveInCircle 20s ease infinite",
+        "vertical-marquee-slow": "vertical-marquee 44s linear infinite",
+        "vertical-marquee-slower": "vertical-marquee 48s linear infinite",
+        "vertical-marquee-slowest": "vertical-marquee 55s linear infinite",
       },
       keyframes: {
         spotlight: {
@@ -110,6 +113,10 @@ module.exports = {
           "100%": {
             transform: "translateY(-50%)",
           },
+        },
+        "vertical-marquee": {
+          "0%": { transform: "translateY(0%)" },
+          "100%": { transform: "translateY(-100%)" },
         },
       },
     },

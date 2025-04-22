@@ -3,6 +3,7 @@ import Grid from "@/components/grid";
 import Hero from "@/components/hero";
 import MyApproachSection from "@/components/my-approach";
 import Projects from "@/components/projects";
+import Testimonials from "@/components/testimonials";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Projects/>
         <ExperienceSection/>
         <MyApproachSection/>
+        <Testimonials/>
       </div>
     </main>
   );
