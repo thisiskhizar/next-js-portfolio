@@ -1,6 +1,7 @@
 import ExperienceSection from "@/components/experience";
 import Grid from "@/components/grid";
 import Hero from "@/components/hero";
+import MyApproachSection from "@/components/my-approach";
 import Projects from "@/components/projects";
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
         <Grid/>
         <Projects/>
         <ExperienceSection/>
+        <MyApproachSection/>
       </div>
     </main>
   );
