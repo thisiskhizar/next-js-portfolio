@@ -4,7 +4,7 @@ export const ProfileCard = () => {
   return (
     <div className="flex flex-col space-y-4 p-5">
       <img
-        src="600x400.jpeg"
+        src="./600x400-2.png"
         alt="Muhammad Khizar"
         className="w-full min-h-50 rounded-2xl object-cover shadow-md transition-all duration-200 group-hover/bento:brightness-75"
       />

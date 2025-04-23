@@ -57,7 +57,7 @@ const Testimonials = () => {
                   name={item.name}
                   username={item.username}
                   quote={item.quote}
-                  img={"/profile.svg"}
+                  img={"./profile.svg"}
                 />
               ))}
             </div>
