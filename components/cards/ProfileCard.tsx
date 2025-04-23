@@ -4,9 +4,9 @@ export const ProfileCard = () => {
   return (
     <div className="flex flex-col space-y-4 p-5">
       <img
-        src="https://placehold.co/600x400"
+        src="600x400.jpeg"
         alt="Muhammad Khizar"
-        className="w-full min-h-50 rounded-2xl object-cover border border-white shadow-md"
+        className="w-full min-h-50 rounded-2xl object-cover shadow-md transition-all duration-200 group-hover/bento:brightness-75"
       />
 
       <div className="transition duration-200 group-hover/bento:translate-x-2">
