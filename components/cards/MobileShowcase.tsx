@@ -4,11 +4,11 @@ const MobileShowcase = () => {
       {/* Text Content */}
       <div className="z-10 transition duration-200 group-hover/bento:translate-x-2">
         <h3 className="font-sans text-2xl lg:text-3xl font-bold pointer-events-none bg-clip-text text-transparent drop-shadow-2xl bg-gradient-to-b from-white/100 to-white/50">
-          Mobile Friendly
+          Custom Mobile Apps
         </h3>
         <p className="text-base text-white-100 mt-2 md:leading-relaxed">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto,
-          similique!
+          I build responsive, high-performance mobile apps backed by solid,
+          scalable APIs.
         </p>
       </div>
 

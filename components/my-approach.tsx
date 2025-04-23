@@ -33,7 +33,7 @@ const features = [
 
 const MyApproachSection = () => {
   return (
-    <section id="my-approach" className="py-20">
+    <section id="my-approach" className="py-10 md:py-20">
       <h1 className="heading pb-5">
         Why choose <span className="text-purple">me?</span>
       </h1>

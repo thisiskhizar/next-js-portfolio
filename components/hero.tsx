@@ -6,7 +6,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 const Hero = () => {
   return (
-    <div className="pb-20 pt-36">
+    <div className="pb-10 md:pb-20 pt-36">
       {/* Background gradient for the hero section */}
       <div>
         <Spotlight

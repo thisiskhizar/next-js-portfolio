@@ -42,43 +42,43 @@ export const projects = [
 
 export const education = [
   {
-    year: "2015 - 2018",
-    title: "High School Diploma",
+    year: "2020 – 2024",
+    title: "Bachelor of Engineering in Computer Systems",
     description:
-      "Completed my early education with a focus on computer science and mathematics.",
+      "Studied at Mehran University, focusing on software engineering, algorithms, databases, and full-stack development.",
   },
   {
-    year: "2018 - 2022",
-    title: "Bachelor's Degree",
+    year: "2022",
+    title: "Full-Stack Web Developer Bootcamp – Colt Steele (Udemy)",
     description:
-      "Graduated in Computer Science, learning foundational software development and algorithms.",
+      "Hands-on bootcamp covering modern full-stack development using JavaScript, Node.js, Express, MongoDB, and React.",
   },
   {
-    year: "2018 - 2022",
-    title: "Bachelor's Degree",
+    year: "2023",
+    title: "Python for Everybody – University of Michigan (Coursera)",
     description:
-      "Graduated in Computer Science, learning foundational software development and algorithms.",
+      "Learned Python fundamentals, APIs, data structures, and backend logic through this specialization by Dr. Charles Severance.",
   },
 ];
 
 export const experience = [
   {
-    year: "2022 - 2023",
-    title: "Frontend Developer",
+    year: "2022 – Present",
+    title: "Freelance Full-Stack Developer",
     description:
-      "Worked with React, Tailwind, and Next.js to build responsive UIs and landing pages.",
+      "Delivered 50+ custom web apps using React, Node.js, and Django for clients worldwide across various industries.",
   },
   {
-    year: "2023 - Present",
-    title: "Full-Stack Developer",
+    year: "May 2024 – June 2024",
+    title: "Python Developer – Net2Apps",
     description:
-      "Developed scalable web applications using Next.js, Express.js, MongoDB, and Vercel.",
+      "Created automated testing frameworks using Python and Selenium for SAP HCM, improving test coverage and reliability.",
   },
   {
-    year: "2023 - Present",
-    title: "Full-Stack Developer",
+    year: "July 2023 – Aug 2023",
+    title: "Backend Intern – BitsPro",
     description:
-      "Developed scalable web applications using Next.js, Express.js, MongoDB, and Vercel.",
+      "Built API endpoints with FastAPI and Django for HR systems and vendor platforms, boosting internal team productivity.",
   },
 ];
 

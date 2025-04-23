@@ -14,7 +14,7 @@ const Questions = ({ faqs }: { faqs: FAQItem[] }) => {
   };
 
   return (
-    <section id="faq" className="relative py-20">
+    <section id="faq" className="relative py-10 md:py-20">
       <h1 className="heading pb-5 text-center">
         Frequently Asked <span className="text-purple">Questions</span>
       </h1>

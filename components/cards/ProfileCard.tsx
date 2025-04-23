@@ -14,14 +14,13 @@ export const ProfileCard = () => {
           Muhammad Khizar
         </h2>
         <p className="text-base text-white-100 mt-2">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta ad
-          cumque unde nihil veniam ipsum reiciendis praesentium maiores incidunt
-          facilis.
+          I&apos;m a Full Stack Developer with 2+ years of experience building
+          scalable web applications using React, Django, and Next.js.
         </p>
         <p className="text-base text-white-100 mt-1">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur
-          cum id labore fugiat architecto iste, fuga corporis quidem dolore
-          tenetur.
+          I’ve delivered 50+ custom projects globally, blending clean
+          architecture, modern tech, and client collaboration to solve
+          real-world business challenges.
         </p>
       </div>
 

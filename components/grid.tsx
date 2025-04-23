@@ -6,7 +6,7 @@ import GlobeCard from "./cards/GlobeCard";
 
 const Grid = () => {
   return (
-    <section id="grid-section" className="relative my-20">
+    <section id="about" className="relative my-20">
       <BentoGrid className="w-full">
         {items.map((item, i) => (
           <BentoGridItem

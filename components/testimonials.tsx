@@ -18,7 +18,7 @@ const Testimonials = () => {
   const columns = splitIntoColumns(testimonials, 3);
 
   return (
-    <section id="testimonials" className="py-20">
+    <section id="testimonials" className="py-10 md:py-20">
       <h1 className="heading pb-5">
         Kind words from <span className="text-purple">satisfied clients</span>
       </h1>

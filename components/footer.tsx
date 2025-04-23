@@ -5,22 +5,23 @@ import MagicButton from "./ui/magic-button";
 
 const Footer = () => {
   return (
-    <footer className="w-full pt-20 pb-10" id="contact">
-      {/* background grid */}
-      <div className="w-full absolute left-0 -bottom-72 min-h-96">
+    <footer className="w-full pt-20 pb-12 md:pb-10 relative z-10" id="contact">
+      {/* Background Grid Image */}
+      <div className="absolute inset-x-0 -bottom-20 min-h-64 pointer-events-none z-0">
         <img
           src="/footer-grid.svg"
           alt="grid"
-          className="w-full h-full opacity-70"
+          className="w-full h-full object-cover opacity-90 pointer-events-none"
         />
       </div>
 
-      <div className="flex flex-col items-center">
+      {/* Content */}
+      <div className="flex flex-col items-center text-center px-4">
         <h1 className="heading lg:max-w-[45vw]">
           Ready to take <span className="text-purple">your</span> digital
           presence to the next level?
         </h1>
-        <p className="text-white-200 md:mt-10 my-5 text-center">
+        <p className="text-white-200 md:mt-10 my-5 max-w-xl">
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
@@ -32,11 +33,12 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
+
+      {/* Bottom section */}
+      <div className="flex mt-16 md:flex-row flex-col justify-between items-center gap-4 px-4">
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2025 Khizar
         </p>
-
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((info) => (
             <div
