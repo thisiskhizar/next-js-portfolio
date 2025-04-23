@@ -3,6 +3,7 @@ import { BentoGrid, BentoGridItem } from "./ui/bento-grid";
 import { CallToActionCard } from "./cards/CallToActionCard";
 import MobileShowcase from "./cards/MobileShowcase";
 import GlobeCard from "./cards/GlobeCard";
+import TechStackGrid from "./cards/TechStackCard";
 
 const Grid = () => {
   return (
@@ -47,7 +48,7 @@ const items = [
     title: "CallToActionCard",
     description:
       "Understand the impact of effective communication in our lives.",
-    header: <Skeleton />,
+    header: <TechStackGrid/>,
     className: "md:col-span-1",
   },
   {
