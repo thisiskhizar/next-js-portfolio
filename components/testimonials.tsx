@@ -4,6 +4,7 @@ import ReviewCard from "./ui/review-card";
 interface Testimonial {
   name: string;
   quote: string;
+  username: string;
 }
 
 const splitIntoColumns = (data: Testimonial[], count: number) => {
@@ -54,7 +55,7 @@ const Testimonials = () => {
                 <ReviewCard
                   key={`${i}-${idx}`}
                   name={item.name}
-                  username={"khizar.ofc"}
+                  username={item.username}
                   quote={item.quote}
                   img={"/profile.svg"}
                 />

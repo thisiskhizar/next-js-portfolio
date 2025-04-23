@@ -85,112 +85,125 @@ export const experience = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Khizar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Khizar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Khizar is the ideal partner.",
+      "Collaborating with Khizar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    username: "michael_j_dev",
   },
   {
     quote:
-      "Khizar transformed our digital presence completely. His ability to understand our goals and turn them into a fully responsive, fast-loading site was amazing.",
+      "Khizar transformed our digital presence completely. His ability to understand our goals and turn them into a fast-loading site was amazing.",
     name: "Samantha Lee",
-    title: "Marketing Lead at BlueHorizon Co.",
+    username: "samlee_horizon",
   },
   {
     quote:
-      "I've worked with many developers, but Khizar is by far the most responsive and detail-oriented. Every small request was handled like it mattered.",
+      "I've worked with many developers, but Khizar is by far the most responsive and detail-oriented.",
     name: "Raj Patel",
-    title: "Product Manager at NovaApps",
+    username: "raj_codes",
   },
   {
     quote: "Short and sweet – Khizar knows what he's doing. Period.",
     name: "Linda Gomez",
-    title: "Founder of PixelSpark Studio",
+    username: "pixel_linda",
   },
   {
     quote:
       "We threw a tough deadline at Khizar and he delivered ahead of schedule. Absolutely brilliant work!",
     name: "Jason Meyers",
-    title: "COO of Tracklytics",
+    username: "jason_m_track",
   },
   {
     quote:
-      "Khizar not only met our expectations — he redefined them. Clean code, strong design sense, and fantastic communication throughout the project.",
+      "Khizar not only met our expectations — he redefined them. Clean code, strong design sense, and fantastic communication.",
     name: "Emily Zhang",
-    title: "Design Director at GlowUp Agency",
+    username: "ezhang_uiux",
   },
   {
     quote:
-      "Our website was outdated and clunky. Khizar revamped everything and now it runs like a dream. I can't thank him enough!",
+      "Our site was outdated and clunky. Khizar revamped everything and now it runs like a dream.",
     name: "Marcus Bennett",
-    title: "CEO at SummitGear",
+    username: "marcusbennett_dev",
   },
   {
     quote:
-      "Super collaborative and transparent with progress. I always felt in the loop and confident that we'd get the results we needed.",
+      "Super collaborative and transparent with progress. I always felt in the loop.",
     name: "Nina Alvarez",
-    title: "Operations Manager at WaveWorks",
+    username: "nina_ops",
   },
   {
     quote:
-      "Honestly, the best freelance experience I've had. Khizar is a machine — professional, patient, and extremely talented.",
+      "Honestly, the best freelance experience I've had. Khizar is a machine — professional and extremely talented.",
     name: "Tariq Hasan",
-    title: "CTO at InnoCraft Labs",
+    username: "tariq_innocraft",
   },
   {
     quote:
-      "Khizar took our startup’s MVP and helped polish it into a full-fledged production-ready product. Would definitely work with him again.",
+      "Khizar took our startup’s MVP and polished it into a production-ready product. Would work with him again.",
     name: "Chloe Nguyen",
-    title: "Founder of TinyTasks",
+    username: "chloedev_mvp",
   },
   {
     quote:
-      "We didn’t know exactly what we needed, but Khizar guided us with suggestions that worked beautifully. End result: an elegant, user-friendly platform.",
+      "We didn’t know what we needed, but Khizar guided us with smart suggestions. Result: a user-friendly platform.",
     name: "Brian O’Connor",
-    title: "Project Lead at ClearView Systems",
+    username: "b_oconnor_ui",
   },
   {
     quote:
-      "Fast, reliable, and deeply skilled. Khizar communicates well and builds even better. Highly recommend.",
+      "Fast, reliable, and deeply skilled. Khizar communicates well and builds even better.",
     name: "Julia Smith",
-    title: "Lead Designer at Flowline Studio",
+    username: "julia_smith_flow",
   },
   {
     quote:
-      "Working with Khizar was refreshing. He cared as much about our project as we did — and it showed in the results.",
+      "Working with Khizar was refreshing. He cared as much about our project as we did.",
     name: "Ethan Brooks",
-    title: "Director of DevOps at QuantumServe",
+    username: "ethan_devops",
   },
   {
     quote:
-      "Clean code, elegant design, and robust performance — Khizar delivers it all. Couldn’t be happier with the collaboration.",
+      "Clean code, elegant design, and strong performance — Khizar delivers it all. Couldn’t be happier.",
     name: "Anika Desai",
-    title: "Head of Product at Zentrolytics",
+    username: "anika_pmgr",
   },
   {
     quote:
-      "His UX instincts are spot on. Every component was crafted to feel natural and intuitive.",
+      "His UX instincts are spot on. Every component was natural and intuitive.",
     name: "Owen Clark",
-    title: "UI/UX Lead at SimpliGo",
+    username: "owen_ux",
   },
   {
     quote:
-      "Khizar is not just a developer; he's a thinker. His input changed our entire roadmap for the better.",
+      "Khizar is not just a developer; he's a thinker. His input shaped our roadmap.",
     name: "Lara Kwon",
-    title: "Startup Coach & Strategist",
+    username: "lara_strategy",
   },
   {
     quote:
-      "The professionalism Khizar brings to the table is unmatched. We felt like we had a full agency behind us — but better.",
+      "Khizar brought agency-level quality with a personal touch. Truly impressive.",
     name: "George White",
-    title: "Creative Director at BrandNest",
+    username: "george_brandnest",
   },
   {
     quote:
-      "Khizar built a custom dashboard for us in days that others couldn't figure out in weeks. Total pro.",
+      "Custom dashboard delivered in days — Khizar solved what others couldn’t. Game changer.",
     name: "Isabella Grant",
-    title: "Senior Analyst at OrbitTech",
+    username: "isabella_analytics",
+  },
+  {
+    quote:
+      "From strategy to deployment, Khizar nailed every aspect of our project. We’re already planning the next one with him.",
+    name: "Devon Richards",
+    username: "dev_richards",
+  },
+  {
+    quote:
+      "Khizar's backend skills are solid, but it's his attention to UI/UX that really impressed our team.",
+    name: "Fatima Noor",
+    username: "fatima.codes",
   },
 ];
+
 
 export const faqs = [
   {

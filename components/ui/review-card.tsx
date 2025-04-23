@@ -45,7 +45,7 @@ const ReviewCard = ({ name, username, img, quote }: ReviewCardProps) => {
               loading="lazy"
               width={500}
               height={500}
-              className="h-12 w-12 rounded-full mr-1"
+              className="h-12 w-12 rounded-full mr-1 bg-opacity-60"
               src={img}
               style={{ color: "transparent" }}
             />
