@@ -4,6 +4,7 @@ import { CallToActionCard } from "./cards/CallToActionCard";
 import MobileShowcase from "./cards/MobileShowcase";
 import GlobeCard from "./cards/GlobeCard";
 import TechStackGrid from "./cards/TechStackCard";
+import ServicesCard from "./cards/ServicesCard";
 
 const Grid = () => {
   return (
@@ -33,36 +34,33 @@ const items = [
     className: "md:col-span-1 md:row-span-2",
   },
   {
-    title: "WorkExperienceCard",
-    description: "Dive into the transformative power of technology.",
-    header: <GlobeCard/>,
+    title: "Globe Card Top Middle",
+    description: "",
+    header: <GlobeCard />,
     className: "md:col-span-1",
   },
   {
-    title: "RecentProjectsCard",
-    description: "Discover the beauty of thoughtful and functional design.",
-    header: <MobileShowcase/>,
+    title: "Mobile Showcase Top Right",
+    description: "",
+    header: <MobileShowcase />,
     className: "md:col-span-1 md:row-span-2",
   },
   {
-    title: "CallToActionCard",
-    description:
-      "Understand the impact of effective communication in our lives.",
-    header: <TechStackGrid/>,
+    title: "Tech Stack Grid",
+    description: "",
+    header: <TechStackGrid />,
     className: "md:col-span-1",
   },
   {
-    title: "ServicesCard",
-    description:
-      "Understand the impact of effective communication in our lives.",
+    title: "Call To Action Card",
+    description: "",
     header: <CallToActionCard />,
     className: "md:col-span-1",
   },
   {
-    title: "The Power of Communication",
-    description:
-      "Understand the impact of effective communication in our lives.",
-    header: <Skeleton />,
+    title: "Services Card",
+    description: "",
+    header: <ServicesCard />,
     className: "md:col-span-2",
   },
 ];
